@@ -1,14 +1,9 @@
 <html lang="en-US">
-  <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
   
-
-    <link rel="stylesheet" href="/assets/css/style.css?v=1e4c3de5614f64d94ff2629742483d4eb5e612d1">
-  </head>
   
   <body>
+    
+  <p style="color:#FF0000";>Red paragraph text</p>
     <div class="wrapper">
       <header>
         <h1><a style="color:#FF0000";>Konstantin Poensgen</a></h1>
