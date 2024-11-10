@@ -30,7 +30,7 @@
         <h1><a href="https://konstantinpoensgen.github.io/">Konstantin Poensgen</a></h1>
 
         
-          <img src="/blob/78e6631a74f05cb42be2e450700c6b2341c84f98/Fotoperfil.jpeg" alt="Logo" />
+          <img src="![Fotoperfil](https://github.com/user-attachments/assets/ac593f94-9949-4075-ae56-8a0b2366031b)" alt="Logo" />
         
 
         <!-- <p>PhD student in Economics at Harvard University</p> -->
