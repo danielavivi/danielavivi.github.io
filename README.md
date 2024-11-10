@@ -1,25 +1,9 @@
-# danielavivi.github.io
 <html lang="en-US">
   <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <!-- Begin Jekyll SEO tag v2.8.0 -->
-<title>PhD Economics Applications | Konstantin Poensgen</title>
-<meta name="generator" content="Jekyll v3.10.0" />
-<meta property="og:title" content="PhD Economics Applications" />
-<meta property="og:locale" content="en_US" />
-<meta name="description" content="PhD student in Economics at Harvard University" />
-<meta property="og:description" content="PhD student in Economics at Harvard University" />
-<link rel="canonical" href="https://konstantinpoensgen.github.io/pages/phd-economics-application-advice.html" />
-<meta property="og:url" content="https://konstantinpoensgen.github.io/pages/phd-economics-application-advice.html" />
-<meta property="og:site_name" content="Konstantin Poensgen" />
-<meta property="og:type" content="website" />
-<meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="PhD Economics Applications" />
-<script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebPage","description":"PhD student in Economics at Harvard University","headline":"PhD Economics Applications","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"https://konstantinpoensgen.github.io/assets/images/230821-0469.png"}},"url":"https://konstantinpoensgen.github.io/pages/phd-economics-application-advice.html"}</script>
-<!-- End Jekyll SEO tag -->
+  
 
     <link rel="stylesheet" href="/assets/css/style.css?v=1e4c3de5614f64d94ff2629742483d4eb5e612d1">
   </head>
