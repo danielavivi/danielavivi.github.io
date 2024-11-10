@@ -11,7 +11,7 @@
         <h1><a>Daniel Villacreces</a></h1>
 
         
-          <img src="/assets/images/230821-0469.png" alt="Logo" />
+          <img src="https://github.com/danielavivi/danielavivi.github.io/blob/main/Fotoperfil.jpeg" alt="Logo" />
         
 
         <!-- <p>PhD student in Economics at Harvard University</p> -->
