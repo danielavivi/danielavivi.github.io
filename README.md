@@ -1,9 +1,8 @@
 
    <html>
-   <p style="color:red;">Red paragraph text</p>
 
       <header>
-        <h1><a style="color:#FF0000";>Daniel Villacreces</a></h1>
+        <h1>  <p style="color:red;">Daniel Villacreces</p></h1>
 
         
           <img src="https://github.com/danielavivi/danielavivi.github.io/blob/main/Fotoperfil.jpeg" alt="Logo" />
