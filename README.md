@@ -1,15 +1,9 @@
-<body>
-  <p style="color:#FF0000";>Red paragraph text</p>
+
+   <html>
    <p style="color:red;">Red paragraph text</p>
-</body>
-  
-  
-  <body>
-    
-  <p style="color:#FF0000";>Red paragraph text</p>
-    <div class="wrapper">
+
       <header>
-        <h1><a>Daniel Villacreces</a></h1>
+        <h1><a style="color:#FF0000";>Daniel Villacreces</a></h1>
 
         
           <img src="https://github.com/danielavivi/danielavivi.github.io/blob/main/Fotoperfil.jpeg" alt="Logo" />
