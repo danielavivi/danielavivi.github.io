@@ -21,7 +21,7 @@
 {"@context":"https://schema.org","@type":"WebPage","description":"PhD student in Economics at Harvard University","headline":"PhD Economics Applications","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"https://konstantinpoensgen.github.io/assets/images/230821-0469.png"}},"url":"https://konstantinpoensgen.github.io/pages/phd-economics-application-advice.html"}</script>
 <!-- End Jekyll SEO tag -->
 
-    <link rel="stylesheet" href="/assets/css/style.css?v=1e4c3de5614f64d94ff2629742483d4eb5e612d1">
+    <link rel="stylesheet" href="https://github.com/danielavivi/danielavivi.github.io/blob/d9cacca4fa063b27dc8fe85b8c3c09dd46dcca00/css">
   </head>
   
   <body>
